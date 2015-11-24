@@ -1,2 +1,2 @@
-# iOS----UIColor-
-1:学习GitHub工具的使用，不具备学习效果。
+# iOS----苹果官方开发文档UIColor
+本项目是为学习GitHub工具的Test，不具备学习效果。
